@@ -1,5 +1,5 @@
 # TO-DO-LIST
-To Do List Task for octanet
+To Do List Task Of Web Development Internship From OCTANET Service pvt Ltd.
 
 
 Live Project Demo :  https://chetan7895.github.io/TO-DO-LIST/
